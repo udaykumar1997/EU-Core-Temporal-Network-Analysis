@@ -1,4 +1,4 @@
-# Academic Whisperings: A Study of Email Networks
+# EU-Core-Temporal-Network-Analysis
 
 This project aims to analyze email communication data from a large European research institution. The dataset contains anonymized information about all incoming and outgoing email between members of the institution over a period of 803 days. The dataset is temporal, representing directed communication from one person to another at specific timestamps.
 
